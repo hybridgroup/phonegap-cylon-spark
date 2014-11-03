@@ -21,7 +21,7 @@ If not installed try using home brew `brew install node`, or directly from the [
 2. Clone repo and get into it:
 
 ```bash
-$ git clone git@github.com:solojavier/phonegap-cylon-spark.git
+$ git clone git@github.com:hybridgroup/phonegap-cylon-spark.git
 $ cd phonegap-cylon-spark
 ```
 
