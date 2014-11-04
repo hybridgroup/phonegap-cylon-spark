@@ -1,6 +1,7 @@
 var Cylon = require('cylon');
 
 Cylon.robot({
+  name: 'spark',
   connection: {
     name: 'spark',
     adaptor: 'spark',
@@ -15,6 +16,11 @@ Cylon.robot({
   },
 
   work: function(my) {
-    every((1).second(), my.led.toggle);
   }
 }).start();
+
+var toggleButton = document.getElementById('toggle');
+toggleButton.addEventListener ("click", function() {
+  var robot = Cylon.robots['spark'];
+  robot.devices.led.toggle();
+});
