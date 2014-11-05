@@ -3,6 +3,8 @@ Phonegap Cylon Spark
 
 An app to control spark with cylon
 
+![Cylonjs Phonegap Spark](/screenshot.jpg?raw=true)
+
 ## Building
 
 ### Getting ready to build.
