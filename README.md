@@ -3,7 +3,7 @@ Phonegap Cylon Spark
 
 An app to control spark with cylon
 
-![Cylonjs Phonegap Spark](/screenshot.jpg?raw=true)
+![Cylonjs Phonegap Spark](https://raw.githubusercontent.com/hybridgroup/phonegap-cylon-spark/master/screenshot.png)
 
 ## Building
 
